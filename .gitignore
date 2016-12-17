@@ -17,3 +17,4 @@ libtbbmalloc_static.a
 tbb.def
 tbbmalloc.def
 version_string.ver
+cmake-build/
